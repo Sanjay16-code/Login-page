@@ -11,7 +11,7 @@ body {
      align-items: center;
      min-height: 100vh;
      background-position: center;
-    background: url(/back.jpg);
+    background: url(back.jpg);
     background-size: cover;
     }
 .log {
